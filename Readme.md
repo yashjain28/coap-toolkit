@@ -1,5 +1,5 @@
 
-# ipm package: coap-toolkit-temp
+# ipm package: coap-toolkit
 
 ## Overview
 
