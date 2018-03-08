@@ -1,0 +1,44 @@
+{
+    "author": {
+        "email": "rreinold@clearblade.com"
+    },
+    "clouds": [],
+    "description": "A ClearBlade library for parsing and building CoAP packets.",
+    "domains": [],
+    "gateways": [],
+    "asset_types":["Code Libraries"],
+    "image_url": "https://i.imgur.com/LcVhX2C.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "constrained",
+        "application",
+        "protocol",
+        "coap",
+        "CoAP",
+        "web",
+        "transfer",
+        "networks",
+        "m2m",
+        "machine to machine",
+        "GET",
+        "PUT",
+        "POST",
+        "DELETE",
+        "nodes"
+    ],
+    "license": "MIT",
+    "name": "coap-toolkit-temp",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [
+        "CoAP",
+        "RFC 7252",
+        "rfc",
+        "7252",
+        "REST"
+    ],
+    "things": [],
+    "version": "1.0.0"
+}

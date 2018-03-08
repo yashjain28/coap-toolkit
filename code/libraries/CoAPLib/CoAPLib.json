@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Library for parsing and building CoAP packets.",
+    "name": "CoAPLib",
+    "version": 10,
+    "visibility": "system"
+}
