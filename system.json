@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "A ClearBlade library for parsing and building CoAP packets.",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "pd-coap-toolkit",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "b288cda90b9cc1a3f48ec387bb16",
+    "system_secret": "B288CDA90BD8F39184F2FAD3FC0F"
+}
