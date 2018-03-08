@@ -1,6 +1,6 @@
 {
     "author": {
-        "email": "rreinold@clearblade.com"
+        "email": "martinpandola@gmail.com"
     },
     "clouds": [],
     "description": "A ClearBlade library for parsing and building CoAP packets.",
