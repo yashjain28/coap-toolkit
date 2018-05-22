@@ -1,4 +1,4 @@
-function ExampleParseCoAP(req, resp){
+function CoAPExampleParse(req, resp){
     // Make a CoAP object
     var coap = CoAP();
     

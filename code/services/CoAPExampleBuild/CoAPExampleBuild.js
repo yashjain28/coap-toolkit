@@ -1,4 +1,4 @@
-function ExampleBuildCoAP(req, resp){
+function CoAPExampleBuild(req, resp){
     var options = {
     	"Request Type": "Confirmable",
     	"Command": "POST",

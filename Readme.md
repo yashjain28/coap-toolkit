@@ -21,14 +21,15 @@ var coap = CoAP();
 
 Install library and add 'CoAPLib' to your code services. See examples below in <a href="#CoAP">CoAP</a>
 
+## Assets
 ### Code Libraries
 
 `CoAPLib` - CoAP Library for building and parsing CoAP messages
 
 ### Code Services
 
-`ExampleBuildCoAP` - builds an example CoAP message
-`ExampleParseCoAP` - parses an example CoAP message
+* `CoAPExampleBuild` - builds an example CoAP message
+* `CoAPExampleParse` - parses an example CoAP message
 
 ## API
 
@@ -164,8 +165,3 @@ var options = {
 | Message ID | <code>string</code> | - the hex string representation of the message ID, ex 24 |
 | Token | <code>string</code> | the hex string representation of the token, ex 1 |
 | CoAPOptions | [<code>CoAPOptions</code>](#CoAPOptions) | option names and their associated values |
-
-
-## Thank you
-
-Powered by ClearBlade Enterprise IoT Platform: [https://platform.clearblade.com](https://platform.clearblade.com)

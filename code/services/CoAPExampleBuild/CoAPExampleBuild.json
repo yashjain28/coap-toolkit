@@ -2,9 +2,9 @@
     "current_version": 7,
     "dependencies": "CoAPLib",
     "logging_enabled": "false",
-    "name": "ExampleBuildCoAP",
+    "name": "CoAPExampleBuild",
     "params": [],
     "permissions": {},
     "run_user": "",
-    "source": "ExampleBuildCoAP.js"
+    "source": "CoAPExampleBuild.js"
 }
