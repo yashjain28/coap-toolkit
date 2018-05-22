@@ -1,3 +1,6 @@
+/**
+ *  builds an example CoAP message
+ */
 function CoAPExampleBuild(req, resp){
     var options = {
     	"Request Type": "Confirmable",

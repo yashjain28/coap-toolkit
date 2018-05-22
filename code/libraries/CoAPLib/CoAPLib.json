@@ -3,6 +3,6 @@
     "dependencies": "",
     "description": "Library for parsing and building CoAP packets.",
     "name": "CoAPLib",
-    "version": 10,
+    "version": 11,
     "visibility": "system"
 }
