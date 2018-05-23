@@ -1,4 +1,8 @@
-function ExampleParseCoAP(req, resp){
+
+/**
+ * parses an example CoAP message
+ */
+function CoAPExampleParse(req, resp){
     // Make a CoAP object
     var coap = CoAP();
     

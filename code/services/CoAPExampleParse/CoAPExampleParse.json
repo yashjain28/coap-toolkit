@@ -2,9 +2,9 @@
     "current_version": 7,
     "dependencies": "CoAPLib,log",
     "logging_enabled": "true",
-    "name": "ExampleParseCoAP",
+    "name": "CoAPExampleParse",
     "params": [],
     "permissions": {},
     "run_user": "",
-    "source": "ExampleParseCoAP.js"
+    "source": "CoAPExampleParse.js"
 }
